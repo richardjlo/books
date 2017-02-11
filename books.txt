@@ -1,0 +1,30 @@
+# RLo's Book Notes
+Note: **Richard's comments are in bold**.
+
+## The Selfish Gene
+
+> You can make some inferences about a man's character if you know something about the conditions in which he has survived and prospered.
+
+**Suppose sometime in the future, say 100 years, no one could know anything about you (your name, race, religion, career, etc) except for the environment that you currently live in. Based on this environment, what inferences about your character would that future person make? Now suppose that you could choose your current environment. What kind of environment would you choose to survive and prosper in? What inferences about your character would that future person now make?**
+
+> I shall argue that a predominant quality to be expected in a successful gene is ruthless selfishness. This gene selfishness will usually give rise to selfishness in individual behavior. However, as we shall see, there are special circumstances in which a gene can achieve its own selfish goals best by fostering a limited form of altruism at the level of individual animals... Much as we might wish to believe otherwise, universal love and the welfare of the species as a whole are concepts which simply do not make evolutionary sense.
+
+**Selfishness vs. altruism comes down to a dilemma of incentives. As individuals, selfish behavior is incentivized so people will always have the dilemma between doing what benefits them vs. what benefits society. It's similar to the compensation model used for doctors. Since doctors are paid each time a patient visits them (fee for service), they are incentivized to maximize the times that they see a patient. Patients on the other hand, are incentivized to minimize their doctor visits. As a result doctors are forced to choose between doing what benefits them vs. what benefits the patient.**
+
+> To build a society in which individuals cooperate generously and unselfishly towards a common good, you can expect little help from biological nature. Let us try to teach generosity and altruism, because we are born selfish.
+
+**This is the right take away. Similarly, if doctors are incentivized to keep patients sick (thereby maximizing doctor visits), how do encourage them to keep patients well (thereby minimizing doctor visits)? One idea is to change the business model and move away from fee for service. However, this does not seem to be an available option for the selfish gene.**
+
+> [Defining altruistic and selfish behaviors] An entity, such as a baboon, it is said to be altruistic if it behaves in such a way as to increase another such entity's welfare at the expense of its own. Selfish behavior has exactly the opposit effect. 'Welfare' is defined as 'chances of survival', even if the effect on actual life and death prospects is so small as to seem negligible.
+
+> One of the surprising consequences of the modern version of the Darwinian theory is that apparently trivial tiny influences on survival probability can have a major impact on evolution. This is because of the enormous time available for such influences to make themselves felt.
+
+**Just like compound interest!**
+
+> An apparently altruistic act is one that looks, superficially, as if it must tend to make the altruist more likely (however slightly) to die, and the recipient more likely to survive. It often turns out on closer inspection that acts of apparent altruism are really selfishness in disguise.
+
+**Curious to know what the split is between "apparently altruistic acts" and "altruistic acts".**
+
+>I am not trying to make a point by telling stories. Chosen examples are never serious evidence for any worthwhile generalization.
+
+**I love this guy.** 
