@@ -1,1 +1,3 @@
-# books
+# Books
+
+Richard's book notes
